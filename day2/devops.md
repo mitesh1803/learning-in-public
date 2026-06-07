@@ -4,7 +4,7 @@
 
 ## 📝 Topic: DevOps Fundamentals & Industry Evolution
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)  
-**Date:** March 13, 2026
+**Date:** June 4, 2026
 
 ---
 
