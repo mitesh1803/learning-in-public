@@ -28,7 +28,7 @@ I'm documenting my journey of learning:
 Learn → Build → Break → Fix → Share → Repeat
 
 ## Resources followed
-- AI: [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- AI: [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) + Harkirat 100x school combined cohort
 - DevOps: [Abhishek Veermalla](https://github.com/iam-veeramalla)
 - Full Stack: [Harkirat Singh](https://www.youtube.com/@harkirat1)
 - DSA: [Love Babbar](https://www.youtube.com/@CodeHelp)
