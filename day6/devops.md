@@ -1,6 +1,6 @@
 ![Progress](https://img.shields.io/badge/Progress-18%25-orange?style=for-the-badge&logo=progress)
 
-# 🚀 Day 08: Shell Scripting for DevOps
+# 🚀 Shell Scripting for DevOps
 
 ## 📝 Topic: Bash Scripting — Shebang, Permissions, Pipelines, Reliability & Automation
 
