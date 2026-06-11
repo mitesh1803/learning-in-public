@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-18%25-orange?style=for-the-badge&logo=progress)
+![Progress](https://img.shields.io/badge/Progress-6%25-orange?style=for-the-badge&logo=progress)
 
 # 🚀 Shell Scripting for DevOps
 
