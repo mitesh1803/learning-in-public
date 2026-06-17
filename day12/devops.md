@@ -1,7 +1,7 @@
-cat > /home/claude/day-16-17-terraform.md << 'ENDOFFILE'
-![Progress](https://img.shields.io/badge/Progress-36%25-orange?style=for-the-badge&logo=progress)
 
-# 🚀 Day 16 & 17 — Infrastructure as Code with Terraform
+![Progress](https://img.shields.io/badge/Progress-12%25-orange?style=for-the-badge&logo=progress)
+
+# 🚀 Day 12 — Infrastructure as Code with Terraform
 
 ## 📝 Topic: IaC Concepts, Terraform Lifecycle, State Management & Remote Backends
 
