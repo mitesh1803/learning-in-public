@@ -6,7 +6,7 @@
 
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-**Date:** June 13, 2026
+**Date:** June 15, 2026
 
 ---
 

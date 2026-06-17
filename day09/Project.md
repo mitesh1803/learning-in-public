@@ -5,6 +5,7 @@
 
 ## 📝 Update: Voice Pipeline is Fully Alive
 **Project:** HireMind — Real-time, voice-driven AI technical interviewer
+
 **Date:** June 13, 2026
 
 ---

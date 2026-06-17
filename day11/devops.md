@@ -6,7 +6,7 @@
 ## 📝 Topic: Why Ansible Won, Installation, Ad-Hoc Commands, Playbooks & Roles
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-**Date:** June 14, 2026
+**Date:** June 16, 2026
 
 ---
 
