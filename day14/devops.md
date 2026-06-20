@@ -1,10 +1,11 @@
 ![Progress](https://img.shields.io/badge/Progress-14%25-orange?style=for-the-badge&logo=progress)
 
-# 🚀 Day 20 — GitHub Actions & CI/CD Pipelines
+# 🚀 Day 14 — GitHub Actions & CI/CD Pipelines
 
 ## 📝 Topic: GitHub Actions as a CI/CD Solution — Concepts, Hands-On & Jenkins Comparison
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
-**Date:** June 16, 2026
+
+**Date:** June 19, 2026
 
 ---
 
