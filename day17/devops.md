@@ -5,7 +5,7 @@
 ## 📝 Topic: Image Optimization + Persistent Storage for Containers
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-**Date:** June 24, 2026
+**Date:** June 25, 2026
 
 ---
 
