@@ -499,12 +499,6 @@ The label-based Service discovery is the other insight that changed how I think 
 The three Service types also map cleanly to the three visibility tiers every organization has: private (ClusterIP — internal only), organizational (NodePort — VPN/intranet), and public (LoadBalancer — internet). Choosing the wrong type is a real security issue — accidentally setting a database Service to LoadBalancer would expose it to the internet.
 
 ---
-
-## 📈 Next Up
-**Day 24:** Kubernetes ConfigMaps & Secrets — externalizing configuration and managing sensitive data without hardcoding into container images.
-
----
-
 ## 🔗 Resources
 * [Kubernetes Deployments Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 * [Kubernetes Services Docs](https://kubernetes.io/docs/concepts/services-networking/service/)
