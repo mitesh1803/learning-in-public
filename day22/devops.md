@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-33%25-orange?style=for-the-badge&logo=progress)
+![Progress](https://img.shields.io/badge/Progress-22%25-orange?style=for-the-badge&logo=progress)
 
 # 🚀 Day 22 — Kubernetes Mock Interview: 10 Core Questions
 
