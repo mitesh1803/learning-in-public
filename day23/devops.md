@@ -1,7 +1,5 @@
-bash
 
-cat > /home/claude/day-25-k8s-services-deepdive.md << 'ENDOFFILE'
-![Progress](https://img.shields.io/badge/Progress-35%25-orange?style=for-the-badge&logo=progress)
+![Progress](https://img.shields.io/badge/Progress-23%25-orange?style=for-the-badge&logo=progress)
 
 # 🚀 Day 23 — Kubernetes Services Deep Dive (with KubeShark)
 
