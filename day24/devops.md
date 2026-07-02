@@ -76,6 +76,10 @@ Routing rules are now live
 
 > **Key point:** An Ingress *resource* with no Ingress *controller* installed does nothing. The resource is just declared intent — it needs a controller to act on it.
 
+Ingress
+![alt text](image.png)
+Ingress Controller
+![alt text](image-1.png)
 ---
 
 ## 🔁 Part 3 — Services Recap (Foundation for Ingress)
@@ -290,6 +294,8 @@ Client --[encrypted]--> Load Balancer --[decrypt, inspect, RE-encrypt]--> Backen
 * Load balancer decrypts just long enough to inspect and route the request (enabling path/host-based rules), then **re-encrypts** before forwarding to the backend.
 * Best of both worlds: advanced routing + encrypted transport to the pod.
 * Recommended approach for production-grade security.
+
+![alt text](image-2.png)
 
 ### OpenShift Routes (Same Concepts, Different Names)
 
