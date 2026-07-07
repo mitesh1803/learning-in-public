@@ -5,7 +5,7 @@
 ## 📝 Topic: OS Fundamentals, Architecture, Directories, Users, Permissions, Processes, Monitoring, Networking & Disk Management
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-**Date:** July 04, 2026
+**Date:** July 06, 2026
 
 ---
 
