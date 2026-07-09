@@ -1,11 +1,11 @@
-![Progress](https://img.shields.io/badge/Progress-13%25-orange?style=for-the-badge&logo=progress)
+![Progress](https://img.shields.io/badge/Progress-30%25-orange?style=for-the-badge&logo=progress)
 
 # 🚀 AWS Day 04 — Virtual Private Cloud (VPC) Explained
 
 ## 📝 Topic: Why VPC Exists and How Its Core Components Form a Network
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-**Date:** July 09, 2026
+**Date:** July 08, 2026
 
 ---
 
