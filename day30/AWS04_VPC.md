@@ -253,11 +253,6 @@ The Security Groups vs. NACLs distinction (instance-level vs. subnet-level) is f
 
 ---
 
-## 📈 Next Up
-**AWS Day 05:** Security Groups and Network ACLs deep dive — stateful vs. stateless behavior, rule evaluation order, and a hands-on demonstration blocking/allowing traffic at both layers.
-
----
-
 ## 🔗 Resources
 * [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 * [VPC Subnets Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)

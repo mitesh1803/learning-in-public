@@ -1,6 +1,6 @@
 ![Progress](https://img.shields.io/badge/Progress-30%25-orange?style=for-the-badge&logo=progress)
 
-# 🚀 AWS Day 02 — IAM (Identity and Access Management)
+# 🚀 AWS Day 03 — IAM (Identity and Access Management)
 
 ## 📝 Topic: Authentication, Authorization, Users, Policies, Groups & Roles
 **Instructor:** [Abhishek Veeramalla](https://github.com/iam-veeramalla)
