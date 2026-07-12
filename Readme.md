@@ -28,7 +28,7 @@ I'm documenting my journey of learning:
 | `day06` | [🚀 Shell Scripting for DevOps](day06/devops.md) |
 | `day07` | [🚀 AWS Resource Tracker + Git & GitHub Fundamentals](day07/devops.md) |
 | `day08` | [🚀 Git Branching Strategies & Advanced Git Workflows](day08/devops.md) |
-| `day09` | [🎙️ HireMind — Day 09 Devlog](day09/Project.md) |
+| `day09` | [🎙️ Intervio — Day 09 Devlog](day09/Project.md) |
 | `day10` | [🚀 Deploying NodeJS on EC2 + Top 15 AWS Services for DevOps](day10/devops.md) |
 | `day11` | [🚀 Ansible: Configuration Management & Hands-On Implementation](day11/devops.md) |
 | `day12` | [🚀 Infrastructure as Code with Terraform](day12/devops.md) |
