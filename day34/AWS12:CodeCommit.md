@@ -214,10 +214,6 @@ Given my own portfolio (Intervio, ATS Shortlister, GrowEasy) are already on GitH
 
 ---
 
-## 📈 Next Up
-**AWS Day 13:** Integrating GitHub as the source stage for AWS CodePipeline, and configuring AWS CodeBuild to compile and test code from a GitHub repository.
-
----
 
 ## 🔗 Resources
 * [AWS CodeCommit Documentation](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)

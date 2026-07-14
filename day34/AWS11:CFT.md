@@ -303,10 +303,6 @@ The CFT-vs-Terraform framing finally gave me language for something I'd sensed b
 
 ---
 
-## 📈 Next Up
-**AWS Day 12:** AWS CI/CD ecosystem — CodeCommit, CodePipeline, CodeBuild, and CodeDeploy, starting with setting up a private CodeCommit repository.
-
----
 
 ## 🔗 Resources
 * [AWS CloudFormation Documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
