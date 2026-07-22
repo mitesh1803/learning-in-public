@@ -53,6 +53,12 @@ I'm documenting my journey of learning:
 | `day31` | [🚀 Security Groups vs. Network ACLs Deep Dive](day31/AWS05_SG_NACL.md) <br> [🚀 Route 53 (DNS Fundamentals)](day31/AWS06_route53.md) |
 | `day32` | [🚀 Production-Grade AWS Architecture Project](day32/AWS07:PROJECT.md) <br> [🚀 AWS Scenario-Based Interview Questions (VPC, EC2, IAM)](day32/AWS08:INTERVIEW_QUESTIONS.md) |
 | `day33` | [🚀 S3 (Simple Storage Service)](day33/AWS09:S3.md) <br> [🚀 AWS CLI Deep Dive](day33/AWS10:CLI.md) |
+| `day34` | [🚀 AWS CloudFormation Templates (CFT)](day34/AWS11:CFT.md) <br> [🚀 AWS CodeCommit & the AWS CI/CD Ecosystem](day34/AWS12:CodeCommit.md) |
+| `day35` | [🚀 AWS CodePipeline vs. Jenkins](day35/AWS13:Code_Pipeline.md) <br> [🚀 Hands-On CI Pipeline: CodeBuild + CodePipeline + GitHub](day35/AWS14:CI_Project.md) |
+| `day36` | [🚀 AWS CodeDeploy: Completing the CI/CD Pipeline](day36/AWS15:CI_CD_PROJECT.md) <br> [🚀 AWS CloudWatch Deep Dive](day36/AWS16:Cloud_Watch.md) <br> [🚀 AWS Lambda & Serverless Architecture](day36/AWS17:Lambda.md) |
+| `day37` | [🚀 Cloud Cost Optimization Project (Lambda + Boto3)](day37/AWS18:Cost_Optimization.md) <br> [🚀 AWS CloudFront (CDN)](day37/AWS19:CloudFront.md) |
+| `day38` | [🚀 AWS ECR (Elastic Container Registry)](day38/AWS20:ECR.md) <br> [🚀 AWS ECS (Elastic Container Service)](day38/AWS21:ECS.md) <br> [🚀 Secret Management on AWS](day38/AWS22:SECRET_MANAGEMENT.md) |
+| `day39` | [🚀 Automating Infrastructure with Terraform](day39/AWS23:AWS_TERRAFORM_PROJECT.md) <br> [🚀 AWS Config for Compliance](day39/AWS24:Config.md) <br> [🚀 AWS Load Balancers Deep Dive (ALB, NLB, GWLB)](day39/AWS25:Load_Balancer.md) <br> [🚀 Cloud Migration to AWS](day39/AWS26:Mirgration.md) <br> [🚀 Three-Tier Architecture](day39/AWS27:THREE_TIER_ARCHITECTURE.md) |
 
 ## What You'll Find Here
 - Project updates
